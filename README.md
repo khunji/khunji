@@ -2,6 +2,10 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nalgangdoo7)](https://solved.ac/nalgangdoo7/)
 
+---
+
+### MY STORY
+
 [![Tistory Blog](https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=white)](https://hunco03.tistory.com/)
 
 ---
